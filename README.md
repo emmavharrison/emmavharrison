@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Emma 👋
+
+Leicester-based, full-stack, mostly-incompetent.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,gitlab)](https://skillicons.dev)
 
